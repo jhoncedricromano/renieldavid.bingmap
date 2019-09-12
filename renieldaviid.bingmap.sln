@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "renieldaviid.bingmap", "renieldaviid.bingmap\renieldaviid.bingmap.csproj", "{2A0DC12E-3A72-40B4-9ADB-3202F12E24D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A0DC12E-3A72-40B4-9ADB-3202F12E24D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0DC12E-3A72-40B4-9ADB-3202F12E24D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0DC12E-3A72-40B4-9ADB-3202F12E24D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0DC12E-3A72-40B4-9ADB-3202F12E24D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F5010C-AF07-4984-9386-2DB8A2D79184}
+	EndGlobalSection
+EndGlobal
